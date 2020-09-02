@@ -4,9 +4,9 @@ Simple Backend API which I wrote in Node.js displaying REST API protocol/service
 This back-end script is using Node.js as its main framework in implementing web services through REST API protocol.
 This short project helped me in understanding fundamental concepts of back-end web development using Node.js Framework.
 
-I learned the following :
-1.  Primary components of a web application.
-2.  Responsibilities of a back-end developer.
-3.  HTTP and how it is used in Web communication.
-4.  RESTful APIs and services.
+The following objectives were acheived in this project :
+1.  A simpe relational database implemented for storing quotations as text using sqllite.
+2.  Express library of Node.js used for initiating web services api in REST protocol.
+3.  Application configured and deployed on a local machine listening to a local port.
+4.  Application tested succesfully through API calls on the listening port of the deployed enviroment.
 
