@@ -1,4 +1,4 @@
-# quotes-api
+# Quotes API
 Simple Backend API which I wrote in Node.js displaying REST API protocol/services.
 
 This back-end script is using Node.js as its main framework in implementing web services through REST API protocol.
